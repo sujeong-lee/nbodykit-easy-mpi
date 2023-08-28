@@ -1,0 +1,10 @@
+name: cross
+savedir: output/cross/
+logfile: output.log
+gal: 
+random: 
+gal2: 
+random2: 
+random_denominator:
+redshift: [0.8, 1.8]
+z_col: z

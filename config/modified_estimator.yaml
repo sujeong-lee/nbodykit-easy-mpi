@@ -1,0 +1,11 @@
+name: modified estimator
+savedir: output_test/
+logfile: test.log
+gal: ../flagship2/flagship2_circlesample_sample10_out.fits
+gal2:
+random: ../flagship2/flagship2_circlerandom_sample10_x50_out.fits
+random2:
+random_denominator: ../flagship2/flagship2_circlerandom_sample10_x50_out-clean-only_z0.01.fits
+redshift: [0.9, 0.91]
+z_col: observed_redshift_gal
+# z_col: z

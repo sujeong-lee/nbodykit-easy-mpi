@@ -1,0 +1,8 @@
+name: auto
+savedir: output/auto/
+logfile: output.log
+gal: 
+random: 
+#random_denominator:
+redshift: [0.9, 1.8]
+z_col: z
